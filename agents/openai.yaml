@@ -1,0 +1,8 @@
+interface:
+  display_name: "Paper HTML Translator"
+  short_description: "将浏览器保存的论文 HTML 转为中英文 Markdown 文档"
+  default_prompt: "Use $paper-html-translator to extract this saved paper HTML and create a bilingual Markdown package with local images."
+
+policy:
+  allow_implicit_invocation: true
+
